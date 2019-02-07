@@ -1,0 +1,22 @@
+{
+  "dogs": [
+  {
+    "name": "Lucy",
+    "breed": "pitbull",
+    "age": 4,
+    "favoriteFood": "cheese"
+  },
+  {
+    "name": "Josie",
+    "breed": "German Shepard",
+    "age": 9,
+    "favoriteFood": "bacon"
+  }
+ ]
+}
+
+
+
+
+
+
